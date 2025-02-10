@@ -21,7 +21,7 @@ This project analyzes hotel booking data to identify key trends, cancellation dr
 - **Statistical Analysis**: Hypothesis testing for cancellation drivers (e.g., t-tests, chi-square).
 
 ## 📂 Dataset
-- **Source**: [Kaggle Hotel Booking Demand Dataset](https://www.kaggle.com/datasets/example-hotel-bookings)
+- **Source**: [[Kaggle Hotel Booking Demand Dataset](https://www.kaggle.com/datasets/example-hotel-bookings)](https://www.kaggle.com/datasets/mojtaba142/hotel-booking)
 - **Features**:
   - `hotel` (City/Resort)
   - `is_canceled` (1/0)
